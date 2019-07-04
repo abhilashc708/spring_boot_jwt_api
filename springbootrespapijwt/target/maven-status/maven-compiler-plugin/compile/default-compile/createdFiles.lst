@@ -1,0 +1,7 @@
+com\testapi\springbootrespapijwt\model\Role.class
+com\testapi\springbootrespapijwt\model\User.class
+com\testapi\springbootrespapijwt\config\JWTconfig.class
+com\testapi\springbootrespapijwt\controller\TestController.class
+com\testapi\springbootrespapijwt\repository\UserRepository.class
+com\testapi\springbootrespapijwt\JwtApiApp.class
+com\testapi\springbootrespapijwt\service\UserService.class
